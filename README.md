@@ -10,5 +10,8 @@ Yurda kaydolacak öğrencilerin takip sistemini, yurdun genel durumunu, sistemde
 
 ![akıs](database_project_codeigniter/yurtdrawiooooo.png)
 
+# ER diyagramı
+
+![er](database_project_codeigniter/ER_diagram_son.png)
 
 
