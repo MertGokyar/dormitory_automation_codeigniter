@@ -6,6 +6,9 @@ Bu projenin konusu olan yurt otomasyonu, zamandan tasarruf ettiren, yapılacak i
 
 Yurda kaydolacak öğrencilerin takip sistemini, yurdun genel durumunu, sistemde kayıtlı bulunan yöneticilerin de bu durumları kontrol etmesine, değiştirmesi vb. özellikleri güncellemesine olanak sağlayan bir web sitesidir. Uygulamamız admin, yönetici ve öğrenci girişi bulunduran bir giriş ekranıyla başlamaktadır.
 
-#akış diyagramı
+# akış diyagramı
+
+https://github.com/senademirbass/dormitory_automation_codeigniter/blob/main/database_project_codeigniter/yurtdrawiooooo.png
+
 
 
