@@ -8,7 +8,7 @@ Yurda kaydolacak öğrencilerin takip sistemini, yurdun genel durumunu, sistemde
 
 # akış diyagramı
 
-https://github.com/senademirbass/dormitory_automation_codeigniter/blob/main/database_project_codeigniter/yurtdrawiooooo.png
+![akıs](database_project_codeigniter/yurtdrawiooooo.png)
 
 
 
